@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "AL CALLAO'",
+  "base_artist": "Rauw Alejandro",
+  "createdAt": "2026-02-20T16:16:25.475532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AL CALLAO'",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/01_AL_CALLAO'_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "AL CALLAO'",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/02_AL_CALLAO'_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tiembla De Carupano al Callao",
+      "artist": "Desorden Público",
+      "has_synced": true,
+      "path": "select/03_Tiembla_De_Carupano_al_Callao_Desorden_Público.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "AL CALLAO' [Explicit]",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/04_AL_CALLAO'_[Explicit]_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tiembla de Carúpano al Callao",
+      "artist": "Desorden Público y C4 Trío",
+      "has_synced": true,
+      "path": "select/05_Tiembla_de_Carúpano_al_Callao_Desorden_Público_y_C4_Trío.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "AL CALLAO' (Visualizer)",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/06_AL_CALLAO'_(Visualizer)_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AL CALLAO'",
+      "artist": "Rauw Alejandro",
+      "has_synced": false,
+      "path": "select/pl_01_AL_CALLAO'_Rauw_Alejandro.txt"
+    }
+  ]
+}
